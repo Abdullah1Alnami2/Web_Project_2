@@ -1,1 +1,6 @@
 php artisan config:publish database.php // to broadcast the file you change
+
+
+// i ran
+composer require laravel/breeze
+php artisan breeze:intall
